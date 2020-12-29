@@ -9,8 +9,9 @@
 
 _________
 
-### Below are the programming languages, frameworks, and software technologies that I'm highly proficient with. 
-
+<details>
+  <summary>Below are the programming languages, frameworks, and software technologies that I'm highly proficient with. </summary>
+  
 #### Programming Languages
 - <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 - <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,3 +58,4 @@ _________
 - <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 - <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</details>
