@@ -9,8 +9,10 @@
 
 _________
 
+### Below are the programming languages, frameworks, and software technologies that I'm highly proficient with.
+
 <details>
-  <summary>Below are the programming languages, frameworks, and software technologies that I'm highly proficient with. </summary>
+  <summary> Click to expand </summary>
   
 #### Programming Languages
 - <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
