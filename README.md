@@ -1,8 +1,8 @@
 ## Welcome to my GitHub!
 
-#### Hi! I'm Sherwin Wyco and I'm a Full Stack Engineer. I do programming and stuff. Also very open for collaboration.
+#### Hi! I'm Sherwin Wyco and I'm a Full Stack Engineer. I do programming and stuff.
 
-#### Got ideas? Hiring? Feel free to reach me at
+#### Feel free to reach me at
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/sherwin-wyco/)
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:lunde@adobe.com?subject=[GitHub]%20)
