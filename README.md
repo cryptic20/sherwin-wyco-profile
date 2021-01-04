@@ -8,6 +8,13 @@
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:lunde@adobe.com?subject=[GitHub]%20)
 
+
+#### My most recent project
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cryptic20&repo=valorant-discord)](https://github.com/cryptic20/valorant-discord)
+
+
 _________
 
 ### Below are the programming languages, frameworks, and software technologies that I'm highly proficient with.
