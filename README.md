@@ -12,7 +12,7 @@
 #### My most recent project
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cryptic20&repo=valorant-discord)](https://github.com/cryptic20/valorant-discord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sherwyco&repo=valorant-discord)](https://github.com/cryptic20/valorant-discord)
 
 
 _________
