@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-#### Hi! I'm Sherwin Wyco and I'm a Full Stack Engineer. Very well versed with popular languages and frameworks. Also very curious and easily intrigued by a lot of things.
+#### A Full Stack Engineer. Extremely versed with popular languages and frameworks. Massively curious and easily intrigued by a lot of things.
 
 
 #### Feel free to reach me at
