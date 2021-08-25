@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-#### A Full Stack Engineer. Extremely versed with popular languages and frameworks. Massively curious and easily intrigued by a lot of things.
+#### Full Stack Engineer. Extremely versed with popular languages and frameworks. Massively curious and easily intrigued by a lot of things.
 
 
 #### Feel free to reach me at
