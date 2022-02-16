@@ -2,13 +2,6 @@
 
 #### Full Stack Engineer. Extremely versed with popular languages and frameworks. Massively curious and easily intrigued by a lot of things.
 
-
-#### Feel free to reach me at
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/sherwin-wyco/)
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:lunde@adobe.com?subject=[GitHub]%20)
-
-
 #### My most recent project
 
 
